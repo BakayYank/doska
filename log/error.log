@@ -1,0 +1,1 @@
+2019/01/10 11:20:39 [crit] 4873#4873: *5 connect() to unix:/var/run/php-fpm/php-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: bson.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php-fpm/php-fpm.sock:", host: "bson.loc"
